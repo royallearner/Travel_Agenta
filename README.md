@@ -62,9 +62,9 @@ The app leverages Portia AI, Google Gemini, and Tavily APIs to provide an advanc
 
 **Set them in .env file:**
 ```bash 
-PORTIA_API_KEY={your_portia_key_goes_here}
-GEMINI_API_KEY={your_gemini_key_goes_here}
-TAVILY_API_KEY={your_tavily_key_goes_here}
+PORTIA_API_KEY="your_portia_key_goes_here"
+GOOGLE_API_KEY="your_google_key_goes_here"
+TAVILY_API_KEY="your_tavily_key_goes_here"
 ```
 
 
@@ -72,16 +72,20 @@ TAVILY_API_KEY={your_tavily_key_goes_here}
 
 
 
+
+- Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/Mrvishnupro-ai/travel-agenta.git
+```
 
-# Install dependencies
+- Install dependencies
+```bash
 pip install -r requirements.txt
+```
+- Update API Keys in env file
 
-# Update API Keys in env file
-
-# Run the application
+- Run the application
+```bash
 streamlit run app.py
 ```
 
@@ -110,11 +114,12 @@ streamlit run app.py
 
 ## 📝 Usage
 
-1. 🔑 Enter your API keys in the sidebar
-2. 🌍 Fill in travel details (origin, destination, dates)
-3. 🎯 Customize preferences (trip type, budget, activities)
-4. 📧 Provide email addresses for reports
-5. ✨ Generate your personalized travel plan!
+1. 🔑 Update the .env file wiith your API keys
+2. ⚙️ Run the app.py file with `Run the Application` command
+3. 🌍 Fill in travel details (origin, destination, dates)
+4. 🎯 Customize preferences (trip type, budget, activities)
+5. 📧 Provide email addresses for reports
+6. ✨ Generate your personalized travel plan!
 
 
 ## 📄 License
