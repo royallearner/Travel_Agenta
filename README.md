@@ -1,16 +1,19 @@
 # 🌍Travel Agenta
-
-<!-- Technology Stack Badges -->
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)](https://aistudio.google.com/)
-[![Portia](https://img.shields.io/badge/Portia-AI%20Agent-purple.svg)](https://www.portialabs.ai/)
-[![Tavily](https://img.shields.io/badge/Tavily-Search%20API-orange.svg)](https://www.tavily.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
-
-<!-- Features Badges -->
-[![Travel Planning](https://img.shields.io/badge/Feature-Travel%20Planning-green.svg)]( )
-[![Email Integration](https://img.shields.io/badge/Feature-Email%20Reports-blue.svg)]( )
-[![Calendar Sync](https://img.shields.io/badge/Feature-Calendar%20Sync-red.svg)]( )
-[![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet.svg)]( )
+<div align="center">
+  <!-- Technology Stack Badges -->
+  
+  [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)](https://aistudio.google.com/)
+  [![Portia](https://img.shields.io/badge/Portia-AI%20Agent-purple.svg)](https://www.portialabs.ai/)
+  [![Tavily](https://img.shields.io/badge/Tavily-Search%20API-orange.svg)](https://www.tavily.com/)
+  [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
+  
+  <!-- Features Badges -->
+  
+  [![Travel Planning](https://img.shields.io/badge/Feature-Travel%20Planning-green.svg)]( )
+  [![Email Integration](https://img.shields.io/badge/Feature-Email%20Reports-blue.svg)]( )
+  [![Calendar Sync](https://img.shields.io/badge/Feature-Calendar%20Sync-red.svg)]( )
+  [![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet.svg)]( )
+</div>
 
 Travel Agenta is an AI-powered agentic travel planning application that helps users generate personalized travel itineraries with detailed day-by-day plans, recommendations, and automated email delivery.
 The app leverages Portia AI, Google Gemini, and Tavily APIs to provide an advanced, interactive, and reliable travel planning experience.
