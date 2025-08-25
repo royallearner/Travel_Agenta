@@ -42,7 +42,7 @@ The app leverages Portia AI, Google Gemini, and Tavily APIs to provide an advanc
 
 ## [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Open File Folder" width="25" height="25" />]( ) Project Structure
 ```bash
-├── .env                  # API keys (Do not commit)
+├── .env                  # API keys
 ├── README.md             # Documentation
 ├── app.py                # Main Streamlit app
 └── requirements.txt      # Dependencies
