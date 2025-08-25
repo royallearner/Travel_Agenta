@@ -91,7 +91,8 @@ streamlit run app.py
   <a href="https://youtu.be/7aAxc25H_BI?si=Kmj0z7n_pOlc4vi2">
     <img src="https://i.ytimg.com/vi/7aAxc25H_BI/hqdefault.jpg" alt="Project Travel Agenta Demo Video" width="640" height="360" border="10" />
     <br>
-    <img src="https://img.shields.io/badge/DEMO-cyan" alt="Demo Video" width="100" height="50">
+    
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/7aAxc25H_BI?si=Kmj0z7n_pOlc4vi2)
   </a>
 </div>
 
