@@ -1,16 +1,16 @@
 # 🌍Travel Agenta
 
 <!-- Technology Stack Badges -->
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Portia](https://img.shields.io/badge/Portia-AI%20Agent-purple.svg)
-![Tavily](https://img.shields.io/badge/Tavily-Search%20API-orange.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)](https://aistudio.google.com/)
+[![Portia](https://img.shields.io/badge/Portia-AI%20Agent-purple.svg)](https://www.portialabs.ai/)
+[![Tavily](https://img.shields.io/badge/Tavily-Search%20API-orange.svg)](https://www.tavily.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 <!-- Features Badges -->
-![Travel Planning](https://img.shields.io/badge/Feature-Travel%20Planning-green.svg)
-![Email Integration](https://img.shields.io/badge/Feature-Email%20Reports-blue.svg)
-![Calendar Sync](https://img.shields.io/badge/Feature-Calendar%20Sync-red.svg)
-![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet.svg)
+[![Travel Planning](https://img.shields.io/badge/Feature-Travel%20Planning-green.svg)]()
+[![Email Integration](https://img.shields.io/badge/Feature-Email%20Reports-blue.svg)]()
+[![Calendar Sync](https://img.shields.io/badge/Feature-Calendar%20Sync-red.svg)]()
+[![AI Powered](https://img.shields.io/badge/AI-Powered-blueviolet.svg)]()
 
 Travel Agenta is an AI-powered agentic travel planning application that helps users generate personalized travel itineraries with detailed day-by-day plans, recommendations, and automated email delivery.
 The app leverages Portia AI, Google Gemini, and Tavily APIs to provide an advanced, interactive, and reliable travel planning experience.
@@ -85,13 +85,16 @@ streamlit run app.py
 Use the sidebar in the UI to input API keys and start planning your trip.
 <br>
 
-## 🧩 Demo video
+## 🧩 Demo video 
 <a href="https://www.youtube.com/">
-<img src="https://img.shields.io/badge/DEMO-cyan" alt="Demo Video" width="100" height="50">
+  <img src="https://img.shields.io/badge/DEMO-cyan" alt="Demo Video" width="100" height="50">
 </a>
 
+
 ## 🧩 Core Flow
-<img src="https://github.com/Mrvishnupro-ai/travel-agenta/blob/main/flowchart" alt="Flowchart">
+<img src="https://raw.githubusercontent.com/royallearner/media/refs/heads/main/flowchart_png.png" alt="Flowchart">
+
+
 
 <br>
 
@@ -106,17 +109,15 @@ Use the sidebar in the UI to input API keys and start planning your trip.
 
 ## 📄 License
 
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)<br>Free to use and modify.
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)]()<br>Free to use and modify.
 
 ---
 
 <div align="center">
 
-  ![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)
+  [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)]()
 
-  This project is developed and maintained by <br> [![Team ByteBrains](https://img.shields.io/badge/Team-ByteBrains-red.svg)](https://github.com/ByteBrains)
-
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)
+  This project is developed and maintained by <br> ![Team ByteBrains](https://img.shields.io/badge/Team-ByteBrains-red.svg)<br> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)
 </div>
 
 
