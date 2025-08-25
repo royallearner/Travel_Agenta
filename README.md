@@ -86,9 +86,16 @@ streamlit run app.py
 <br>
 
 ## ▶️ Demo video 
-[<img src="https://img.shields.io/badge/DEMO-cyan" alt="Demo Video" width="100" height="50">](https://youtu.be/7aAxc25H_BI?si=Kmj0z7n_pOlc4vi2)
 
+<div align="center">
+  <a href="https://youtu.be/7aAxc25H_BI?si=Kmj0z7n_pOlc4vi2">
+    <img src="https://i.ytimg.com/vi/7aAxc25H_BI/hqdefault.jpg" alt="Project Travel Agenta Demo Video" width="640" height="360" border="10" />
+    <br>
+    <img src="https://img.shields.io/badge/DEMO-cyan" alt="Demo Video" width="100" height="50">
+  </a>
+</div>
 
+<br>
 
 ## 🔄 Core Flow
 <img src="https://raw.githubusercontent.com/royallearner/media/refs/heads/main/flowchart_png.png" alt="Flowchart_of_the_app">
