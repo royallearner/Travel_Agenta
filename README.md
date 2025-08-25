@@ -86,7 +86,7 @@ streamlit run app.py
 <br>
 
 ## ▶️ Demo video 
-[<img src="https://img.shields.io/badge/DEMO-cyan" alt="Demo Video" width="100" height="50">](https://www.youtube.com/)
+[<img src="https://img.shields.io/badge/DEMO-cyan" alt="Demo Video" width="100" height="50">](https://youtu.be/7aAxc25H_BI?si=Kmj0z7n_pOlc4vi2)
 
 
 
