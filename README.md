@@ -115,13 +115,13 @@ streamlit run app.py
 
 ## 📄 License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)]( )<br>Free to use and modify.
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit)<br>Free to use and modify.
 
 ---
 
 <div align="center">
 
-  [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)]( )
+  [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://www.youtube.com/@teamnovatra)
 
-  This project is developed and maintained by <br> [![Team ByteBrains](https://img.shields.io/badge/Team-ByteBrains-red.svg)]()<br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)]()
+  This project is developed and maintained by <br> [![Team ByteBrains](https://img.shields.io/badge/Team-ByteBrains-red.svg)](https://www.youtube.com/@teamnovatra)<br> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=100&pause=1000&color=38C2FF&center=true&width=435&lines=mrvishnupro%2Fai;rohitveera4096;ishakshaikk;royallearner)]()
 </div>
